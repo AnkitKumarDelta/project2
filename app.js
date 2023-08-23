@@ -1,1 +1,2 @@
 //addS
+let string ="ankit";
